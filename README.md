@@ -8,6 +8,6 @@
 1. Avec thonny
 - Ouvrir un nouveau fichier python et l'enregistrer dans le répertoire de votre projet (par défaut, pyxel_dev_env)
 - Dans le menu, selectionnez Run >> Select interpreter
-![image info](./config_thonny_1.png)
+![image info](./images/config_thonny_1.png)
 - Aller dans l'onglet Interpreter, selectionnez "Alternative Python 3 interpreter or virtuel environment"
-![image info](./config_thonny_2.png)
+![image info](./images/config_thonny_2.png)
